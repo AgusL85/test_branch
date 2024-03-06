@@ -50,6 +50,10 @@ print(long_objeto3)
 
 # In[ ]:
 
+## Se agrega cambio
+a= 15
+b= 56
+d=a*b
 
 
 
