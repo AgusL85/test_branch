@@ -47,13 +47,9 @@ long_objeto2=20
 long_objeto3= long_objeto1+long_objeto2
 print(long_objeto3)
 
+# Se agrega cambio
 
-# In[ ]:
-
-<<<<<<< HEAD
-## Se agrega cambio
-a= 15
-b= 56
-d=a*b
-
+a= 1
+b= 2
+c= a+b
 
